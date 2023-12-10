@@ -1,0 +1,33 @@
+.main {
+    width: 12rem;
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.cardid {
+    color: grey
+}
+
+.title {
+    border-radius: 50%;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.title input {
+    border-radius: 1005;
+}
+
+.title, .cardid {
+    font-size: small;
+}
+
+.tags {
+    display: flex;
+    color: grey;
+}
+
+.dot {
+    border-radius: 100%;    
+}
